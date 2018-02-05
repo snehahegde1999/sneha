@@ -1,0 +1,11 @@
+1.adding of two numbers
+2.subtractng of two numbers
+3.typecasting to get addition of two numbers with input functions
+4.printing my name
+5.To create dictionary using ubantu terminal
+
+
+
+
+
+
